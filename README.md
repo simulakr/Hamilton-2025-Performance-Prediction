@@ -10,8 +10,10 @@ Dataset: Historical Formula 1 results (2005-2024), track characteristics, and te
 Models: Random Forest, XGBoost, and LightGBM (XGBoost produced the best results, so it was chosen for further analysis.)
 Target Variable: Hamilton_Position
 Conclusion
-Based on the results, we found that Hamilton is likely to achieve better positions with Ferrari compared to Mercedes on a track-by-track basis
+Based on the results, we found that Hamilton is likely to achieve better positions with Ferrari compared to Mercedes on a track-by-track basis.
 
-** You can access the datasets here: **
+--------------------------------
+
+You can access the datasets here:
 
 https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
